@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+git log -- onelin
+e
+git log -- oneline
+git log -- oneline
+
+git log -- oneline
+git log -- oneline
